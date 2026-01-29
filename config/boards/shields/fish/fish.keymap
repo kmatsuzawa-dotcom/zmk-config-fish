@@ -91,7 +91,7 @@
 
         combo_mouse {
             key-positions = <8 19>;
-            bindings = <&tog 8>;
+            bindings = <&tog 7>;
         };
     };
     
