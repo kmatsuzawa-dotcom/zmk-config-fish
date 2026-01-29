@@ -194,3 +194,10 @@
         };
     };
 };
+
+/ {
+    bluetooth {
+        device-name = "FishKB";  // ← 新しい名前に変更（任意）
+        appearance = <961>;       // (任意) “Keyboard” の見た目コード
+    };
+};
